@@ -1,0 +1,15 @@
+C:\Users\Nida\source\repos\tambolunme\tambolunme\bin\Debug\net6.0\tambolunme.exe
+C:\Users\Nida\source\repos\tambolunme\tambolunme\bin\Debug\net6.0\tambolunme.deps.json
+C:\Users\Nida\source\repos\tambolunme\tambolunme\bin\Debug\net6.0\tambolunme.runtimeconfig.json
+C:\Users\Nida\source\repos\tambolunme\tambolunme\bin\Debug\net6.0\tambolunme.dll
+C:\Users\Nida\source\repos\tambolunme\tambolunme\bin\Debug\net6.0\tambolunme.pdb
+C:\Users\Nida\source\repos\tambolunme\tambolunme\obj\Debug\net6.0\tambolunme.csproj.AssemblyReference.cache
+C:\Users\Nida\source\repos\tambolunme\tambolunme\obj\Debug\net6.0\tambolunme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nida\source\repos\tambolunme\tambolunme\obj\Debug\net6.0\tambolunme.AssemblyInfoInputs.cache
+C:\Users\Nida\source\repos\tambolunme\tambolunme\obj\Debug\net6.0\tambolunme.AssemblyInfo.cs
+C:\Users\Nida\source\repos\tambolunme\tambolunme\obj\Debug\net6.0\tambolunme.csproj.CoreCompileInputs.cache
+C:\Users\Nida\source\repos\tambolunme\tambolunme\obj\Debug\net6.0\tambolunme.dll
+C:\Users\Nida\source\repos\tambolunme\tambolunme\obj\Debug\net6.0\refint\tambolunme.dll
+C:\Users\Nida\source\repos\tambolunme\tambolunme\obj\Debug\net6.0\tambolunme.pdb
+C:\Users\Nida\source\repos\tambolunme\tambolunme\obj\Debug\net6.0\tambolunme.genruntimeconfig.cache
+C:\Users\Nida\source\repos\tambolunme\tambolunme\obj\Debug\net6.0\ref\tambolunme.dll
