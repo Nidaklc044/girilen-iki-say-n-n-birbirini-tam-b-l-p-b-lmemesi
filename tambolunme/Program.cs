@@ -15,6 +15,7 @@ for(int i = 1; i >= 0; i++)
         else
         {
             Console.WriteLine(sayi1 + " sayısı" + sayi2 + " sayısına tam bölünmez");
+            Console.Readkey();
          
         }
     }
